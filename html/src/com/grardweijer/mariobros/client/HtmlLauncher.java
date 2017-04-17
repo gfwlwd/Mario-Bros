@@ -3,7 +3,6 @@ package com.grardweijer.mariobros.client;
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.backends.gwt.GwtApplication;
 import com.badlogic.gdx.backends.gwt.GwtApplicationConfiguration;
-import com.grardweijer.mariobros.MarioBros;
 
 public class HtmlLauncher extends GwtApplication {
 
